@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Seva/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0%20%282%29/mlruns/0/5423995c46ab4605931a11531a0ba276/artifacts/687295576563275840/25892c96829348f88dc162211b6e5623/artifacts
+end_time: 1715010817768
+entry_point_name: ''
+experiment_id: '687295576563275840'
+lifecycle_stage: active
+run_id: 25892c96829348f88dc162211b6e5623
+run_name: burly-gull-284
+run_uuid: 25892c96829348f88dc162211b6e5623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715010817356
+status: 3
+tags: []
+user_id: Seva
